@@ -1,10 +1,10 @@
-# 📝 Flask MyNotes WebApp
+# Flask MyNotes WebApp
 
 A full-stack **Flask** web application for managing personal notes, built with **TailwindCSS** and **FontAwesome** for a modern, clean UI.
 
 ---
 
-## 🚀 Features
+## Features
 
 - User authentication (Sign Up, Login, Logout)
 - Create, view, and delete notes
@@ -15,7 +15,7 @@ A full-stack **Flask** web application for managing personal notes, built with *
 
 ---
 
-## 🛠 Setup & Installation
+## Setup & Installation
 
 Make sure you have Python 3.8+ installed.
 
@@ -49,7 +49,7 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 Flask-MyNotes-WebAPP/
